@@ -1,0 +1,69 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/hot_cappuchino.jpg",
+            "nama": "Hot Cappuccino Arabica",
+            "size": "1 cup",
+            "harga": "42.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/ice_cappuchino.jpg",
+            "nama": "Ice Cappuccino Arabica",
+            "size": "1 cup",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "1 cup",
+            "harga": "37.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/latte.jpg",
+            "nama": "Hot Latte Arabica",
+            "size": "1 cup",
+            "harga": "42.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/biji_arabica.jpg",
+            "nama": "Arabica COffee Beans",
+            "size": "100 gram",
+            "harga": "87.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/amerikano.jpg",
+            "nama": "Ice Americano Robusta",
+            "size": "1 cup",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "1 Cup",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/ice_latte.jpg",
+            "nama": "Ice Latte Robusta",
+            "size": "1 cup",
+            "harga": "48.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/biji_robusta.jpg",
+            "nama": "Robusta Coffee Beans",
+            "size": "100 Gram",
+            "harga": "124.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
