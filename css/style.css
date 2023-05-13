@@ -30,9 +30,14 @@ a {
    color: unset;
 }
 
+h1 {
+   color:rgb(46, 15, 218)
+}
+
 h2 {
    /* mengatur ukuran huruf ke 34 pixel */
    font-size: 34px;
+   color:rgb(28, 2, 88)
 }
 
 h3 {
