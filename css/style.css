@@ -58,6 +58,7 @@ img {
       tidak besar gambar tidak melebihi layar ataupun pembungkus
    */
    max-width: 100%;
+   height: auto;
 }
 
 /* Navigasi */
