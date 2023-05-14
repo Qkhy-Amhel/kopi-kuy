@@ -213,7 +213,7 @@ section {
    position: relative;
 
    /* background-color mengatur warna latar belakang elemen */
-   background-color: #c0f6f8;
+   background-color: #e2f2f3;
 }
 
 /* 
@@ -328,7 +328,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 /* OUR TEAM */
 
 .our-team {
-   background-color: #aec7d3;
+   background-color: #d6f0ee;
    box-shadow: inset 0px 0px 23px -6px #707070;
 }
 
