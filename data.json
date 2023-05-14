@@ -31,7 +31,7 @@
         {
             "foto": "images/produk/biji_arabica.jpg",
             "nama": "Arabica Coffee Beans",
-            "size": "100 gram",
+            "size": "1 pcs",
             "harga": "87.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
@@ -61,7 +61,7 @@
         {
             "foto": "images/produk/biji_robusta.jpg",
             "nama": "Robusta Coffee Beans",
-            "size": "100 Gram",
+            "size": "1 pcs",
             "harga": "124.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         }
