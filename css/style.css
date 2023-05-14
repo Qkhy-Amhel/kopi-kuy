@@ -2,7 +2,7 @@
 
 /* Mendaftarkan font ke dalam CSS, dan memberi nama family */
 @font-face {
-   font-family: 'Poppins';
+   font-family: 'Candara';
    src: url(../fonts/poppins.woff2);
 }
 
